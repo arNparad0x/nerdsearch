@@ -1,5 +1,5 @@
 # nerdsearch
-search nerd font charectors  offline
+search nerd font charecters  offline
 
 ## usage
 
