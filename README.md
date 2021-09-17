@@ -34,6 +34,16 @@ $ `ns <search_string>`
 ### example:
 
 >`$ nerdsearch telegram`
+
 >![](https://github.com/arNparad0x/nerdsearch/blob/main/nerdout.png)
+
+# get nerd-font
+
+>**download nerd font from**
+>https://www.nerdfonts.com/font-downloads<br>
+>--------or---------<br>
+>**patch your font with**
+>https://github.com/ryanoasis/nerd-fonts#font-patcher
+
 
 
