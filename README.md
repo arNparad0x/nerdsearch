@@ -34,7 +34,6 @@ $ `ns <search_string>`
 ### example:
 
 >`$ nerdsearch telegram`
-
 >![](https://github.com/arNparad0x/nerdsearch/blob/main/nerdout.png)
 
 # get nerd-font
