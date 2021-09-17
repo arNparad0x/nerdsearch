@@ -1,6 +1,20 @@
 # nerdsearch
 search nerd font charecters  offline
 
+## instillation
+
+apt update
+
+apt install git 
+
+git clone https://github.com/arNparad0x/nerdsearch
+
+cd nerdsearch
+
+chmod +x nerdsearch
+
+./nerdsearch
+
 ## usage
 
 $ `./nerdsearch <search_string>`
@@ -20,6 +34,6 @@ $ `ns <search_string>`
 ### example:
 
 >`$ nerdsearch telegram`
->![](/nerdout.png)
+>![](https://github.com/arNparad0x/nerdsearch/blob/main/nerdout.png)
 
 
