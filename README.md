@@ -3,17 +3,17 @@ search nerd font charecters  offline
 
 ## instillation
 
-apt update
+`apt update`
 
-apt install git 
+`apt install git `
 
-git clone https://github.com/arNparad0x/nerdsearch
+`git clone https://github.com/arNparad0x/nerdsearch`
 
-cd nerdsearch
+`cd nerdsearch`
 
-chmod +x nerdsearch
+`chmod +x nerdsearch`
 
-./nerdsearch
+`./nerdsearch`
 
 ## usage
 
